@@ -22,6 +22,7 @@ const units = {
     });
   },
 
+   // ========== EXTENDED UNIT CONVERSION TO WIND AND PRECIPITATION ==========
   handleUnitChange(unitType, value) {
     // Handle system-wide changes
     if (unitType === 'system') {
@@ -86,3 +87,4 @@ const units = {
     localStorage.setItem('weatherAppUnits', JSON.stringify(appState.units));
   }
 };
+
