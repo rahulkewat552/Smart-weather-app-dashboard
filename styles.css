@@ -1282,6 +1282,7 @@ p {
     touch-action: manipulation;
   }
 
+  /* //favorites button// */
   .units-button,
   .favorites-button {
     min-height: 56px;
