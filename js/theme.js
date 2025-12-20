@@ -46,6 +46,7 @@ const theme = {
     });
   },
 
+  // theme persistance
   setTheme(themeName) {
     console.log('Setting theme to:', themeName);
     appState.theme = themeName;
