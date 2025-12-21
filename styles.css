@@ -466,7 +466,7 @@ p {
   }
 }
 
-/* Tablet (768px - 1023px) */
+/* responsive Tablet design (768px - 1023px) */
 @media (max-width: 1023px) and (min-width: 768px) {
   .weather-data {
     grid-template-columns: 1fr;
