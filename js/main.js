@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // Try to load current location weather
+  // Try to load current location weather//
   geolocation.loadCurrentLocationWeather().catch(error => {
     console.error('Failed to initialize geolocation:', error);
   });
