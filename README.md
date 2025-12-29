@@ -44,6 +44,7 @@ A comprehensive, real-time weather application providing accurate weather data, 
 ```bash
 git clone https://github.com/rahulkewat552/Smart-weather-app-dashboard.git
 cd Smart-weather-app-dashboard
+```
 
 ### 📄 Project Structure
 Smart-weather-app-dashboard/
