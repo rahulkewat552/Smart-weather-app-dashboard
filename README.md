@@ -75,11 +75,15 @@ Smart-weather-app-dashboard/
 ###  🎯 Usage Guide
 Getting Started
 
-Allow location access - Get weather at your current location
-Search for cities - Type any city name in the search bar
-Save favorites - Click the star button to save locations
-Toggle theme - Use the sun/moon icon for dark/light mode
-Change units - Open the Units menu to switch Metric/Imperial
+Allow location access -  Get weather at your current location
+
+Search for cities -  Type any city name in the search bar
+
+Save favorites -  Click the star button to save locations
+
+Toggle theme -  Use the sun/moon icon for dark/light mode
+
+Change units -  Open the Units menu to switch Metric/Imperial
 
 ### 📡 API Reference
 This app uses the Open-Meteo API (free, no API key required):
@@ -101,21 +105,30 @@ Parameters include: temperature, humidity, wind speed, precipitation, UV index, 
 
 ## 🔧 Future Enhancements
 Progressive Web App (PWA) support
+
 Offline mode with cached data
+
 Weather alerts and notifications
+
 Air quality index (AQI)
+
 Interactive weather maps
+
 Share weather feature
 
 ## 🙏 Acknowledgments
 Weather data provided by Open-Meteo
+
 Icons from Weather Icons
+
 Fonts from Google Fonts
 
 ## 📧 Contact
 Rahul Kewat
 
 GitHub: @rahulkewat552
+
 Project Link: https://github.com/rahulkewat552/Smart-weather-app-dashboard
+
 Live Demo: https://rahulkewat552.github.io/Smart-weather-app-dashboard/
 
