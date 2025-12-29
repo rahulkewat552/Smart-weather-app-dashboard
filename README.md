@@ -47,6 +47,7 @@ cd Smart-weather-app-dashboard
 ```
 
 ### 📄 Project Structure
+```
 Smart-weather-app-dashboard/
 ├── index.html              # Main HTML file
 ├── styles.css              # Global styles
@@ -69,7 +70,7 @@ Smart-weather-app-dashboard/
     ├── units.js            # Unit conversion
     ├── animations.js       # Visual effects
     └── main.js             # App initialization
-
+```
 
 ###  🎯 Usage Guide
 Getting Started
